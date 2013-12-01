@@ -1,0 +1,12 @@
+Package: QuadraticGarch
+Type: Package
+Title: QGARCH (1,1) Estimation
+Version: 1.0
+Date: 2013-08-14
+Author: Sebastian Cano-Berlanga <cano.berlanga@gmail.com>
+Maintainer: Sebastian Cano-Berlanga <cano.berlanga@gmail.com>
+Depends: fGarch,Rsolnp
+Description: This package performs the MLE of the Quadratic GARCH developed by Sentana (1995) with the GED distribution for innovations.
+License: GPL (>= 2)
+URL: http://canoberlanga.tumblr.com
+

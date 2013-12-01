@@ -1,0 +1,18 @@
+citHeader("To cite mists in publications use:")
+
+citEntry(entry = "Article",
+  title        = "Multiple imputation simulation for financial time series",
+  author       = personList(as.person("Sebastian Cano-Berlanga")),
+  journal      = "Forthcoming Journal",
+  year         = "201X",
+  volume       = "XX",
+  number       = "X",
+  pages        = "X--XX",
+  url          = "http://canoberlanga.tumblr.com",
+
+  textVersion  =
+  paste("Sebastian Cano-Berlanga (201X).",
+        "Multiple imputation simulation for financial time series.",
+        "Forthcoming Journal",
+        "URL http://canoberlanga.tumblr.com")
+)
